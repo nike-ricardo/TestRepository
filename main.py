@@ -1,3 +1,3 @@
 def main:
   print("Hello World")
-  print("I will test my Slack messages. Let me test, please. I have tried a lot.")
+  print("Well, at least I finally am able to receive the message")
