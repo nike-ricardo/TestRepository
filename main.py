@@ -1,2 +1,2 @@
 def main:
-  print("Testing from Jira and Power Automate :)")
+  print("Testing from Jira and Power Automate :) Hope this works")
